@@ -2,12 +2,12 @@
 #### I am a web developer and Artificial Intelligence enthusiast.
 
 
-I am a computer science & engineering student from United International University. Throughout my four years' journey I have learnt a lot of things, but I am very much enthusiastic about machine learning and artificial neural networks. I am also interested in the industry of software development and web development and trying to enhance my skills so that I can be well suited for the job sector. Currently, I am learning the Japanese language and having business manners to be a global candidate. I do like to solve programming problems. I am imaginative, inventive and skilled as well in my favourite areas. I like to participate in sports whenever I have the opportunity, but I love to spend my free time hiking through the mountains and walking around the sea.
+I am a computer science & engineering student from United International University. Throughout my four years' journey I have learnt a lot of things, but I am very much enthusiastic about machine learning and artificial neural networks. I am also interested in the industry of software development and web development and trying to enhance my skills so that I can be well suited for the job sector. Currently, I am working as a junior software enginner at Orange Solutions Ltd, United Group. I do like to solve programming problems. I am imaginative, inventive and skilled as well in my favourite areas. I like to participate in sports whenever I have the opportunity, but I love to spend my free time hiking through the mountains and walking around the sea.
 
 Skills: LARAVEL / REACT / JS / HTML / CSS/ Neural Networks
 
-- 🔭 I’m currently working on BJET. 
-- 🌱 I’m currently learning Japanese Language. 
+- 🔭 I’m currently working on Orange Solutions Ltd, United Group. 
+- 🌱 I’m currently learning data analysis techniques. 
 - 👯 I’m looking to collaborate on my future workspace. 
 - 📫 How to reach me: himel448@gmail.com 
 
