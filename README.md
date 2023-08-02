@@ -1,8 +1,8 @@
 ### Hi there 👋, I am Mahbub E Sobhani
-#### I am a web developer and Artificial Intelligence enthusiast.
+#### I am a Software Engineer and Artificial Intelligence enthusiast.
 
 
-I am a computer science & engineering student from United International University. Throughout my four years' journey I have learnt a lot of things, but I am very much enthusiastic about machine learning and artificial neural networks. I am also interested in the industry of software development and web development and trying to enhance my skills so that I can be well suited for the job sector. Currently, I am working as a junior software enginner at Orange Solutions Ltd, United Group. I do like to solve programming problems. I am imaginative, inventive and skilled as well in my favourite areas. I like to participate in sports whenever I have the opportunity, but I love to spend my free time hiking through the mountains and walking around the sea.
+I am a computer science & engineering student from United International University. Throughout my four years journey, I have learned a lot of things, but I am very much enthusiastic about machine learning and artificial neural networks. I am also interested in the industry of software development and web development and trying to enhance my skills so that I can be well suited for the job sector. Currently, I am working as a junior software engineer at Orange Solutions Ltd, United Group. I do like to solve programming problems. I am imaginative, inventive, and skilled as well in my favorite areas. I like to participate in sports whenever I have the opportunity, but I love to spend my free time hiking through the mountains and walking around the sea.
 
 Skills: LARAVEL / REACT / JS / HTML / CSS/ Neural Networks
 
