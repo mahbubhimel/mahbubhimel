@@ -2,11 +2,11 @@
 #### I am a Software Engineer and Artificial Intelligence enthusiast.
 
 
-I am a computer science & engineering student from United International University. Throughout my four years journey, I have learned a lot of things, but I am very much enthusiastic about machine learning and artificial neural networks. I am also interested in the industry of software development and web development and trying to enhance my skills so that I can be well suited for the job sector. Currently, I am working as a junior software engineer at Orange Solutions Ltd, United Group. I do like to solve programming problems. I am imaginative, inventive, and skilled as well in my favorite areas. I like to participate in sports whenever I have the opportunity, but I love to spend my free time hiking through the mountains and walking around the sea.
+Currently, I work as a research assistant at the State University of Bangladesh (SUB) while pursuing my master's degree in CSE, specializing in data science at the United International University (UIU). I aspire to advance my academic career further. I completed my Bachelor of Science degree in CSE from UIU in 2021. I am always excited to learn and comprehend the latest technologies as the world of AI is rapidly advancing. I have gained academic and industrial experience from various prestigious institutions and software companies. I am determined to achieve more than just a master's degree. I do like to solve programming problems. I am also imaginative, inventive, and skilled in my favorite areas. I like to participate in sports whenever I can, but I love to spend my free time hiking through the mountains and walking around the sea.
 
-Skills: LARAVEL / REACT / JS / HTML / CSS/ Neural Networks
+Skills: NLP / Text to Text / Computer Vision / Neural Networks/ Deep Learning /LARAVEL / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on Orange Solutions Ltd, United Group. 
+- 🔭 I work at the State University of Bangladesh (SUB). 
 - 🌱 I’m currently learning data analysis techniques. 
 - 👯 I’m looking to collaborate on my future workspace. 
 - 📫 How to reach me: himel448@gmail.com 
