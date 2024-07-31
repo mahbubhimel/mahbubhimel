@@ -1,8 +1,8 @@
 ### Hi there 👋, I am Mahbub E Sobhani
-#### I am a Software Engineer and Artificial Intelligence enthusiast.
+#### Lecturer at the University of Scholars and Artificial Intelligence enthusiast.
 
 
-Currently, I work as a research assistant at the State University of Bangladesh (SUB) while pursuing my master's degree in CSE, specializing in data science at the United International University (UIU). I aspire to advance my academic career further. I completed my Bachelor of Science degree in CSE from UIU in 2021. I am always excited to learn and comprehend the latest technologies as the world of AI is rapidly advancing. I have gained academic and industrial experience from various prestigious institutions and software companies. I am determined to achieve more than just a master's degree. I do like to solve programming problems. I am also imaginative, inventive, and skilled in my favorite areas. I like to participate in sports whenever I can, but I love to spend my free time hiking through the mountains and walking around the sea.
+Currently, I work as a lecturer at the University of Scholars in the Department of CSE. In addition to this, I am also serving as a research assistant at the State University of Bangladesh, while pursuing my master's degree in CSE, specializing in data science at the United International University (UIU). I aspire to advance my academic career further. I completed my Bachelor of Science degree in CSE from UIU in 2021. I am always excited to learn and comprehend the latest technologies as the world of AI is rapidly advancing. I have gained academic and industrial experience from various prestigious institutions and software companies. I am determined to achieve more than just a master's degree. I do like to solve programming problems. I am also imaginative, inventive, and skilled in my favorite areas. I like to participate in sports whenever I can, but I love to spend my free time hiking through the mountains and walking around the sea.
 
 Skills: NLP / Text to Text / Computer Vision / Neural Networks/ Deep Learning /LARAVEL / REACT / JS / HTML / CSS
 
