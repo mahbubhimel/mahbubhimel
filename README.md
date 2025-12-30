@@ -4,8 +4,8 @@
 I am a researcher and educator specializing in **Large Language Models (LLMs)**, **Multimodal AI**, and **Mathematical Reasoning**. Currently, I serve as a Lecturer at the University of Scholars and a Research Assistant at BRAC University, where I work on advancing computational techniques for solving complex problems in AI.
 
 🎓 **Education:**
-- **M.Sc. in Computer Science & Engineering** (2025) - United International University, CGPA: 3.83/4.00
-- **B.Sc. in Computer Science & Engineering** (2021) - United International University, CGPA: 3.49/4.00
+- **M.Sc. in Computer Science & Engineering** (2025) - United International University
+- **B.Sc. in Computer Science & Engineering** (2021) - United International University
 
 🔬 **Research Highlights:**
 - **2 papers accepted** at EACL 2026 (European Chapter of ACL)
