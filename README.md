@@ -1,29 +1,54 @@
 ### Hi there 👋, I am Mahbub E Sobhani
-#### Lecturer at the University of Scholars and Artificial Intelligence enthusiast.
+#### Aspiring PhD Student (Fall 2026) | M.Sc. Graduate | Lecturer at University of Scholars | Research Assistant at BRAC University
 
+I am a researcher and educator specializing in **Large Language Models (LLMs)**, **Multimodal AI**, and **Mathematical Reasoning**. Currently, I serve as a Lecturer at the University of Scholars and a Research Assistant at BRAC University, where I work on advancing computational techniques for solving complex problems in AI.
 
-Currently, I work as a lecturer at the University of Scholars in the Department of CSE. In addition to this, I am also serving as a research assistant at the State University of Bangladesh, while pursuing my master's degree in CSE, specializing in data science at the United International University (UIU). I aspire to advance my academic career further. I completed my Bachelor of Science degree in CSE from UIU in 2021. I am always excited to learn and comprehend the latest technologies as the world of AI is rapidly advancing. I have gained academic and industrial experience from various prestigious institutions and software companies. I am determined to achieve more than just a master's degree. I do like to solve programming problems. I am also imaginative, inventive, and skilled in my favorite areas. I like to participate in sports whenever I can, but I love to spend my free time hiking through the mountains and walking around the sea.
+🎓 **Education:**
+- **M.Sc. in Computer Science & Engineering** (2025) - United International University, CGPA: 3.83/4.00
+- **B.Sc. in Computer Science & Engineering** (2021) - United International University, CGPA: 3.49/4.00
 
-Skills: NLP / Text to Text / Computer Vision / Neural Networks/ Deep Learning /LARAVEL / REACT / JS / HTML / CSS
+🔬 **Research Highlights:**
+- **2 papers accepted** at EACL 2026 (European Chapter of ACL)
+  - *MATHMIST*: A parallel multilingual benchmark for mathematical problem solving
+  - *Multi-Agent Geometry Reasoning*: Evaluating agentic frameworks for diagram-based problem solving
+- **5+ conference papers** published in IEEE TENSYMP, BLP Workshop (AACL-IJCNLP)
+- **3+ journal articles** in Crop Design, PLOS ONE
+- **2 funded projects** totaling BDT 480K from ICT Division, Government of Bangladesh
 
-- 🔭 I work at the State University of Bangladesh (SUB). 
-- 🌱 I’m currently learning data analysis techniques. 
-- 👯 I’m looking to collaborate on my future workspace. 
-- 📫 How to reach me: himel448@gmail.com 
+💼 **Current Positions:**
+- **Lecturer & Programming Contest Coordinator**, University of Scholars (May 2024 - Present)
+- **Research Assistant**, BRAC University (May 2025 - Present)
 
+🔭 **Research Interests:**
+Natural Language Processing • Large Language Models • Vision-Language Models • Mathematical Reasoning • Code Generation • Multimodal AI • Deep Learning
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mahbubhimel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mahbub-e-sobhani-himel-38495313a/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sobhanihimel)  
+🎯 **Seeking PhD Opportunities (Fall 2026):**
+I am actively seeking PhD positions in AI/NLP research groups working on LLMs, multimodal models, mathematical reasoning, or related areas. My goal is to advance the field through innovative research that bridges language understanding and complex problem-solving.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mahbubhimel)](https://github.com/ryo-ma/github-profile-trophy)
+💻 **Technical Expertise:**
+- **ML/AI Frameworks:** PyTorch, TensorFlow, Keras, Scikit-Learn
+- **Programming:** Python, Java, C/C++, JavaScript, PHP
+- **Research Tools:** Hugging Face Transformers, Pandas, NumPy, Matplotlib
+- **Languages:** Bengali (Native), English (Professional), Japanese (Basic)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahbubhimel)](https://github.com/anuraghazra/github-readme-stats)
+📫 **Contact:**
+- Email: msobhani2410011@mscse.uiu.ac.bd | mahbub@ius.edu.bd
+- LinkedIn: [mahbub-e-sobhani-himel](https://www.linkedin.com/in/mahbub-e-sobhani-himel-38495313a/)
+- Google Scholar: [Profile](https://scholar.google.com/citations?user=ofEJXHQAAAAJ)
+- arXiv: [Recent Papers](https://arxiv.org/search/?searchtype=author&query=Sobhani%2C+M+E)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahbubhimel&show_icons=true&count_private=true)  
+🏆 **Recent Achievements:**
+- ICPC Asia Dhaka Regional Contest Coach (2024-2025)
+- Academic Excellence Scholarships (B.Sc. & M.Sc.)
+- Multiple government-funded research projects
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mahbubhimel)  
+📚 **Selected Publications:**
+1. **MATHMIST** - EACL 2026 (Accepted)
+2. **Multi-Agent Geometry Reasoning** - EACL 2026 (Accepted)
+3. **Enhanced Text Compression** - IEEE TENSYMP 2024
+4. **Bangla Punctuation Restoration** - BLP Workshop 2023
+5. **Adaptive TreeHive** - PLOS ONE 2025
 
-![GitHub metrics](https://metrics.lecoq.io/mahbubhimel)  
+---
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mahbubhimel)  
-
-![Profile views](https://gpvc.arturio.dev/mahbubhimel)  
+💡 *Open to collaborations in Multimodal AI/NLP research and PhD opportunities starting Fall 2026*
