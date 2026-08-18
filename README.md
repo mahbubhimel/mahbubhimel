@@ -168,8 +168,6 @@ I am an **AI researcher and educator** specializing in **Large Language Models (
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahbubhimel&theme=tokyonight" height="165" alt="GitHub Stats"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahbubhimel&theme=tokyonight" height="165" alt="Top Languages"/>
 
-<img src="https://streak-stats.demolab.com?user=mahbubhimel&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
 </div>
 
 ---
