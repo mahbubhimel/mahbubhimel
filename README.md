@@ -28,7 +28,7 @@ I am an **AI researcher and educator** specializing in **Large Language Models (
 
 | 📄 **10+** | 💰 **3** | 🏆 **2** | 🎓 **PhD** |
 |:---:|:---:|:---:|:---:|
-| Peer-Reviewed Publications | Funded Research Grants | EACL 2026 Awards | Actively Seeking (Fall 2026) |
+| Peer-Reviewed Publications | Funded Research Grants | EACL 2026 Awards | Actively Seeking (Fall 2027) |
 
 </div>
 
@@ -165,10 +165,10 @@ I am an **AI researcher and educator** specializing in **Large Language Models (
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mahbubhimel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahbubhimel&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahbubhimel&theme=tokyonight" height="165" alt="GitHub Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahbubhimel&theme=tokyonight" height="165" alt="Top Languages"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahbubhimel&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=mahbubhimel&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
