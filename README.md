@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,50:b21f1f,100:fdbb2d&height=200&section=header&text=Mahbub%20E%20Sobhani&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Researcher%20%7C%20LLMs%20%E2%80%A2%20Multimodal%20AI%20%E2%80%A2%20Mathematical%20Reasoning&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=800&height=45&lines=Aspiring+PhD+Student+%7C+Seeking+Grad+Opportunity+%F0%9F%8E%93;Lecturer+%40+University+of+Scholars;Research+Assistant+%40+BRAC+University;Building+Next-Generation+AI+Systems+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=800&height=45&lines=Paper+Accepted+at+EMNLP+2026+Findings+%F0%9F%8E%89;Aspiring+PhD+Student+%7C+Seeking+Grad+Opportunity+%F0%9F%8E%93;Lecturer+%40+University+of+Scholars;Research+Assistant+%40+BRAC+University;Building+Next-Generation+AI+Systems+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <!-- Social badges -->
 <a href="https://www.linkedin.com/in/mahbub-e-sobhani-himel-38495313a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -65,6 +65,7 @@ I am an **AI researcher and educator** specializing in **Large Language Models (
 
 | Year | Publication | Venue |
 |:---:|---|:---:|
+| 2026 | 🌏 **BanglaVerse** — *Many Dialects, Many Languages, One Cultural Lens: Evaluating Multilingual VLMs for Bengali Culture Understanding* | **EMNLP Findings** `CORE A*` |
 | 2026 | 🧮 **MATHMIST** — *A Parallel Multilingual Benchmark for Mathematical Problem Solving & Reasoning* | **EACL Findings** `CORE A` |
 | 2026 | 📐 **Multi-Agent Geometry Reasoning** — *Agentic Frameworks for Diagram-Grounded Geometry Problem Solving* | **EACL SRW** `CORE A` |
 | 2026 | 🗣️ **Meaning Over Morphology** — *A Multi-Metric Benchmark of LLMs for Bangla Dialect Translation* | **LREC (DialRes)** `CORE B` |
